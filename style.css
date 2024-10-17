@@ -1,0 +1,33 @@
+body{
+    background-color: #808080;
+}
+header{
+    background-color: #ffffff;
+}
+.sk{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 4em;
+}
+.name h1{
+    color:#66b27a;
+    padding:30%;
+}
+.menu{
+    display:flex;
+    justify-content: space-between;
+}
+.menu li{
+    list-style-type: none;
+    display: block;
+}
+.menu li a{
+    text-decoration: none;
+    text-align: :center;
+    color:black;
+    padding:12px;
+}
+.menu li a:hover{
+    color: #adff2f;
+}
